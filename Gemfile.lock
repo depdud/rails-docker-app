@@ -9,10 +9,8 @@ GEM
       actionpack (= 6.0.2.2)
       activejob (= 6.0.2.2)
       activerecord (= 6.0.2.2)
-gem "activesupport", ">= 6.0.3.1"
-gem "puma", ">= 4.3.5"
-      activestorage (= 6.0.2.2)
-      activesupport (= 6.0.2.2)
+      activestorage (= 6.0.3.1)
+      activesupport (= 6.0.3.1)
       mail (>= 2.7.1)
     actionmailer (6.0.2.2)
       actionpack (= 6.0.2.2)
@@ -208,7 +206,7 @@ DEPENDENCIES
   jbuilder (~> 2.7)
   listen (>= 3.0.5, < 3.2)
   mysql2 (>= 0.4.4)
-  puma (~> 4.1)
+  puma (~> 4.3.5)
   rails (~> 6.0.2, >= 6.0.2.2)
   sass-rails (>= 6)
   selenium-webdriver
