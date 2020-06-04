@@ -9,6 +9,7 @@ GEM
       actionpack (= 6.0.2.2)
       activejob (= 6.0.2.2)
       activerecord (= 6.0.2.2)
+gem "activesupport", ">= 6.0.3.1"
       activestorage (= 6.0.2.2)
       activesupport (= 6.0.2.2)
       mail (>= 2.7.1)
